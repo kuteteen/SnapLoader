@@ -1,0 +1,4 @@
+flex3beta
+com.johncoates.flex3
+com.yourepo.kiiimo.tapcontroller
+com.repo.xarold.com.tapcontroller
