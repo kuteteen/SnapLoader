@@ -2,3 +2,7 @@ flex3beta
 com.johncoates.flex3
 com.yourepo.kiiimo.tapcontroller
 com.repo.xarold.com.tapcontroller
+com.skylerk99.tapcontroller
+
+
+// more will be added as further testing is done
