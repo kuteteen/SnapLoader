@@ -1,7 +1,7 @@
-Package: com.rov3r.snapload
-Name: SnapLoad for iOS 11
+Package: com.rov3r.snaploader
+Name: SnapLoader for Electra
 Depends: mobilesubstrate
-Version: 0.0.1-a
+Version: 0.0.1a
 Architecture: iphoneos-arm
 Description: Loads Snapchat Stories without NoSubstrate/Liberty.
 Maintainer: Rov3r <rov3r@icloud.com>
