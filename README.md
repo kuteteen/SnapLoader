@@ -1,4 +1,4 @@
-# SnapLoad
+# SnapLoader
 Designed specifically to stop tweaks known to make Snapchat Stories not load.
 
 
